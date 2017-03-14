@@ -1,0 +1,223 @@
+/*
+Theme Name: Interior Lite
+Theme URI: https://www.sktthemes.net/shop/free-interior-wordpress-theme/
+Author: SKT Themes
+Author URI: https://www.sktthemes.net
+Description: Interior lite is an interior design WordPress theme which can be used as responsive multipurpose WordPress theme that is simple and adaptable and flexible, and is fully translation ready with po file available. Can be used for construction, food and drink, recipes, bakery, business, corporate, cafe and restaurant, personal, portfolio, Ecommerce, agency, consulting, real estate, photography, architect, carpet, cleaning, hotel, furniture, carpenter, home decor, design. It is also compatible with various other contact form, SEO and Ecommerce plugins like WooCommerce and NextGen gallery. Check demo at: http://sktthemesdemo.net/interior/
+
+Version: 2.4
+License: GNU General Public License v3.0
+License URI: license.txt
+Text Domain: interior-lite
+Tags:one-column,two-columns,right-sidebar,custom-background,custom-colors,custom-menu,sticky-post,theme-options,threaded-comments,translation-ready,blog
+
+Interior Lite WordPress Theme has been created by SKT Themes(sktthemes.net), 2016.
+Interior Lite WordPress Theme is released under the terms of GNU GPL
+*/
+body{ margin:0; padding:0;line-height:20px; font-size:13px; color:#666464; font-family:Arial, Helvetica, sans-serif;}
+*{ margin:0; padding:0; outline:none;}
+img{ border:none; margin:0; padding:0; height:auto}
+.wp-caption, .wp-caption-text, .sticky, .gallery-caption, .aligncenter{ margin:0; padding:0;}
+p{ margin:0; padding:0;}
+a{ text-decoration:none; color:#ffae00;}
+a:hover{ color:#b68023;}
+ol,ul{ margin:0; padding:0;}
+.entry-content ol li, .entry-content ul li{ margin-left:15px;}
+ul li ul, ul li ul li ul, ol li ol, ol li ol li ol{ margin-left:10px;}
+h1,h2,h3,h4,h5,h6{ color:#ffffff; font-family:'Roboto Condensed', sans-serif; margin:0 0 20px; padding:0; line-height:1.1; font-weight:400; }
+h1{ font-size:32px;}
+h2{ font-size:28px;}
+h3{ font-size:24px;}
+h4{ font-size:20px;}
+h5{ font-size:18px;}
+h6{ font-size:14px;}
+.clear{ clear:both;}
+.alignnone{ width:100% !important;}
+img.alignleft, .alignleft{ float:left; margin:0 15px 0 0; padding:5px;}
+img.alignright, .alignright{ float:right; margin:0 0 0 15px; padding:5px;}
+.left{ float:left;}
+.right{ float:right;}
+.space50{ clear:both; height:50px;}
+.space100{ clear:both; height:100px;}
+.pagination{display:table; clear:both;}
+.pagination ul{list-style:none; margin:20px 0;}
+.pagination ul li{display:inline; float:left; margin-right:5px;}
+.pagination ul li span, .pagination ul li a{background:#646262; color:#fff; padding:5px 10px; display:inline-block;}
+.pagination ul li .current, .pagination ul li a:hover{background:#34c6f6;}
+
+#comment-nav-above .nav-previous, #comment-nav-below .nav-previous{ float:none !important; margin:10px 0;}
+ol.comment-list li{ list-style:none; margin-bottom:5px;}
+
+.logo{float:left; width:30%; z-index:999; padding:20px 0;  color:#fff;}
+.logo h1{font-weight:400; margin:0 0 10px; line-height:40px; color:#ffae00; text-transform:uppercase;}
+.logo h1 span{ color:#ffffff;}
+.logo a{ color:#ffffff;}
+.container{ width:1160px; margin:0 auto; position:relative;}
+.header-right{float: right;  text-align: right; width: 70%;}
+h2.section_title{font-weight:400; font-size:34px; text-align:center; padding-bottom:25px; margin-bottom:60px; position:relative;}
+h2.section_title::after{ content:""; position:absolute; width:48px; height:1px; background-color:#fff; bottom:0; left:0; right:0; margin:auto;}
+
+/*header menu css*/
+.toggle{display: block;}
+.toggle a{width:100%; color:#ffffff; background:url(images/mobile_nav_right.png) no-repeat right center #2b2722; padding:10px 10px; margin-top:5px; font-size:16px; text-align:left;}
+.toggle a:hover{color:#ffffff !important;}
+.sitenav{display:none;}
+.header{width:100%; z-index:9999; top:auto; position:absolute; background:url(images/header_bg.png) left top repeat-x;}
+.innerpage, .rel{ position:relative;}
+
+.sitenav{ padding:0; text-align:right; float:right;}
+.sitenav ul { float:right; margin:0; padding:0; font-family:'Oswald', sans-serif; font-weight:400; font-size:14px; text-transform:uppercase;}
+.sitenav ul li{ display:inline-block; margin:0; position:relative; text-align:center;}
+.sitenav ul li a{ padding:32px 15px; display:block; color:#ffffff; }
+.sitenav ul li ul li{display:block; position:relative; float:none; top:-1px; border-bottom:1px solid #483a2f;}
+.sitenav ul li ul li a{display:block; padding-top:10px; padding-bottom:10px; position:relative; top:1px; text-align:left;  }
+.sitenav ul li a:hover, .sitenav ul li.current_page_item a{ color:#ffae00; }
+
+.sitenav ul li ul{display:none; z-index:9999999; position:relative;}
+.sitenav ul li:hover > ul{display:block; width:200px; position:absolute; left:0; text-align:left; background-color:rgba(20, 16, 0, 0.8);  box-shadow:0 2px 2px #333; }
+.sitenav ul li:hover ul li ul{display:none; position:relative;}
+.sitenav ul li:hover ul li:hover > ul{display:block; position:absolute; left:200px; top:1px;}
+
+
+/* = header top sign in  css
+-------------------------------------------------------------- */
+/*Header Top Bar CSS*/
+.phoneemail{ font:600 14px/20px 'Roboto Condensed'; background-color:rgba(20, 16, 0, 0.3); display:inline-block; padding:10px 15px; color:#fff;}
+.phoneemail a{ color:#fff; background:url(images/icon-email.png) no-repeat left 4px; padding:0 0 0 20px; }
+.phoneemail a:hover{ color:#ffae00; }
+.phoneemail span{ background:url(images/icon-phone.png) no-repeat 15px 4px; padding:0 0 0 40px; }
+
+section#home_slider{ padding:0; }
+#wrapfirst, #wrapsecond{ padding:70px 0;}
+h2.section-title {color:#454545; font:300 36px/40px 'Roboto Condensed',san-serif; text-align: center; }
+.last_column{clear:right; margin-right:0 !important; }
+
+/* = Services section css
+-------------------------------------------------------------- */
+.fourbox{ background-color:#ebe3d0; color:#2e2e2e; width:20.3%; padding:17px 17px 0; float:left; margin:0 2.3% 0 0; text-align:center; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px;}
+.fourbox .thumbbx{ height:118px; overflow:hidden;}
+.fourbox img{ width:100%;}
+.fourbox p{ margin-bottom:35px; line-height:20px; }
+.fourbox h3{ font-size:20px; font-weight:400; color:#2e2e2e; text-transform:uppercase; margin:20px 0; font-family:'Oswald', sans-serif; }
+.MoreLink{ background-color:#333339; color:#fff ; display: inline-block; padding:6px 15px;}
+.MoreLink:hover{ background-color:#ffae00; color:#fff; }
+
+/* = social icons css
+-------------------------------------------------------------- */
+.social-icons a{ border:1px solid #fff; color:#fff; width:35px; height:35px; line-height:35px; text-align:center;  vertical-align:middle; display:inline-block; transition:0.6s; -moz-transition:0.6s; -webkit-transition:0.6s; -o-transition:0.6s;  margin:0 3px; padding:0; }
+.social-icons br{ display:none;}
+.social-icons a:hover{ border-color:#ffae00; color:#ffae00;}
+.social-icons .fb{ background:url(images/icon-fb.png) no-repeat center center; }
+.social-icons .tw{ background:url(images/icon-tw.png) no-repeat center center; }
+.social-icons .gp{ background:url(images/icon-gp.png) no-repeat center center;}
+.social-icons .in{ background:url(images/icon-in.png) no-repeat center center;}
+
+/* = Page lay out css
+-------------------------------------------------------------- */
+.site-main{ width:740px; margin:0; padding:0; float:left;}
+#sitefull{ width:100%; float:none;}
+#sitefull p{ margin-bottom:15px;}
+.page_content{ padding:25px 0;}
+.page_content p{ margin-bottom:20px; line-height:20px;}
+
+.blog_lists{ margin-bottom:30px; }
+.blog_lists h2{ margin-bottom:5px;}
+.blog_lists h2 a{ color:#ccc;}
+.blog_lists h2 a:hover{ color:#34c6f6;}
+.blog_lists p{ margin-bottom:10px;}
+.blog-meta{ font-style:italic; margin-bottom:8px;}
+.post-date, .post-comment, .post-categories{ display:inline;} 
+.single_title{ margin-bottom:5px;}
+.BlogPosts{ width:31.2%; float:left; margin:0 3% 0 0;}
+.BlogPosts img{ width:100%;}
+.BlogPosts h2{ margin:10px 0; font-size:22px; }
+.post-thumb img{ float:left; margin:5px 25px 5px 0;}
+
+/* = sidebar
+-------------------------------------------------------------- */
+#sidebar{ width:330px; float:right;}
+aside.widget{margin-bottom:30px; background-color:#f6f4f4; padding:20px; }
+aside.widget ul{ list-style:disc; }
+h3.widget-title{ background-color:#ffae00; padding:12px 15px; margin-bottom:0; color:#fff;}
+#sidebar ul li{list-style:none; border-bottom:1px dashed #d0cfcf; display:block; padding:7px 0 7px 0; margin-left:10px;}
+#sidebar ul li a{ background:url(images/sidebar-arrow.png) no-repeat 0 4px; padding:0 0 0 20px; color:#3b3b3b; }
+#sidebar ul li a:hover{ color:#34c6f6;}
+#sidebar ul li:last-child{ border:none;}
+/* = Footer css
+-------------------------------------------------------------- */
+#footer-wrapper{ background:url(images/footerbg.jpg) repeat center top; position:relative; color:#fff; text-align:center;}
+#footer-wrapper .footwrap{ padding:50px 0;}
+
+.footermenu{ margin-bottom:8px;}
+.footermenu ul{ margin:0; padding:0; list-style:inside disc;}
+.footermenu ul li { display:inline-block;}
+.footermenu ul li a { color:#fff; padding:0 10px; height:12px; display:block; line-height:10px; border-right:1px solid; }
+.footermenu ul li a:hover, .footermenu ul li.current_page_item a { color:#ffae00; }
+.footermenu ul li:last-child a{ border-right:0;}
+
+.copyright-wrapper {  background-color: rgba(13, 9, 0, 0.4); position:relative; padding:30px 0;}
+
+
+/* Buttons */
+.button{ background-color:#ff6565; border-bottom:4px solid #e44545; color:#fff; padding:8px 20px; display:inline-block; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; -o-border-radius:2px; -ms-border-radius:2px; }
+.button:hover{background-color:#34c6f6; border-color:#1898c2; color:#fff;}
+
+/* woocommerce CSS
+================================================*/
+a.added_to_cart{background:#e1472f; padding:5px; display:inline-block; color:#fff; line-height:1;}
+a.added_to_cart:hover{background:#000000;}
+a.button.added:before{content:'' !important;}
+#bbpress-forums ul li{padding:0;}
+#subscription-toggle a.subscription-toggle{padding:5px 10px; display:inline-block; color:#e1472f; margin-top:4px;}
+textarea.wp-editor-area{border:1px #ccc solid;}
+.woocommerce input[type=text], .woocommerce textarea{border:1px #ccc solid; padding:4px;}
+form.woocommerce-ordering select{ padding:5px; color:#777777;}
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th{ font-family:'Roboto Condensed',san-serif; color:#ff8a00;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:inherit !important;}
+h1.product_title, p.price{ margin-bottom:10px;}
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th{ font-family:'Roboto Condensed',san-serif; color:#ff6d84;}
+.woocommerce ul.products li, #payment ul.payment_methods li{ list-style:none !important;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:inherit !important;}
+.woocommerce table.shop_table th, .woocommerce table.shop_table td{ border-bottom:0px !important}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {clip: rect(1px, 1px, 1px, 1px);position: absolute !important;	height: 1px;width: 1px;	overflow: hidden;}
+.screen-reader-text:focus {	background-color: #f1f1f1;	border-radius: 3px;	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);	clip: auto !important;	color: #21759b;	display: block;
+	font-size: 14px;font-size: 0.875rem;font-weight: bold;	height: auto;left: 5px;	line-height: normal;padding: 15px 23px 14px;text-decoration: none;	top: 5px;	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+/* ============= Contact Page =========== */
+.wpcf7{ margin:30px 0 0; padding:0;}
+.wpcf7 input[type="text"], .wpcf7 input[type="tel"], .wpcf7 input[type="email"]{ width:40%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:35px; padding:0 15px; color:#797979; margin-bottom:0;}
+.wpcf7 textarea{width:60%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:150px; color:#797979; margin-bottom:25px; font:12px arial; padding:10px; padding-right:0;}
+.wpcf7 input[type="submit"]{background-color:#ffae00; width:auto; border:none; cursor:pointer; font:18px 'Roboto Condensed',san-serif; color:#ffffff; padding:10px 40px; border-radius:3px;}	
+
+/* ============= Comment Form ============ */
+h1.screen-reader-text{font:22px 'Roboto Condensed',san-serif;}
+.site-nav-previous, .nav-previous{ float:left;}
+.site-nav-next, .nav-next{ float:right;}
+h3#reply-title{font:300 18px 'Roboto Condensed',san-serif;}
+#comments{ margin:30px 0 0; padding:0;}
+nav#nav-below{ margin-top:15px;}
+
+/* ============= Others ============ */
+body.wp-custom-logo .logo h1{display:none;}
+/* ============= Widget Sidebar ============ */
+#sidebar table{width:100%; text-align:center;}
+#calendar_wrap caption{font-weight:700; padding-bottom:10px; text-transform:uppercase;}
+#prev{text-align:left;}
+#next{text-align:right;}
+#sidebar select{ width:100%; height:25px;}
+#sidebar select option{width:260px;}
+
+.comment-author-link, .comment-author-link a{font-weight:700 !important; color:#000000;}
+#sidebar .widget-title a{color:#ffffff;}
+#sidebar input[type="text"], #sidebar input[type="search"]{width:75%; margin-bottom:10px; padding:2%; border:solid 1px #cccccc;}
+.recentcomments a{background-image:none !important; display:inline-block !important; border:none !important; text-align:left !important; padding:0 !important; margin:0 !important;}
+.comment-author-link{margin-right:5px !important;}
+#sidebar ul li ul, #sidebar ul li ul li ul, #sidebar ol li ol, #sidebar ol li ol li ol{ margin-left:0px;}
+.freelink{color:#b68023;}
+.mtop{margin-top:10px;}
+.mtopcontent{margin-top:120px;}
+.infomessage{display:block;}
+.search-form input[type='submit']{ border:none; padding:6px; background:#ffae00; }

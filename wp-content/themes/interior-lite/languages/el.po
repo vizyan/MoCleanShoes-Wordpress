@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interior Lite\n"
+"POT-Creation-Date: 2016-08-16 11:54+0530\n"
+"PO-Revision-Date: 2016-08-16 11:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Δε Βρέθηκε"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Μοιάζει έχετε πάρει μια λάθος στροφή... Μην ανησυχείτε... συμβαίνει στο "
+"καλύτερο από εμάς."
+
+#: archive.php:32 category.php:32 front-page.php:65 index.php:34 search.php:25
+msgid "Back"
+msgstr "ΠΙΣΩ"
+
+#: archive.php:33 category.php:33 front-page.php:66 index.php:35 search.php:26
+msgid "Next"
+msgstr "Επόμενο"
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr "Πλοήγηση Δημοσιεύσεων"
+
+#: comments.php:27
+msgid "Comments"
+msgstr "&larr; Παλαιότερα Σχόλια"
+
+#: comments.php:30 comments.php:50
+msgid "Comment navigation"
+msgstr "Πλοήγηση σε σχόλια"
+
+#: comments.php:31 comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Παλαιότερα Σχόλια"
+
+#: comments.php:32 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα Σχόλια &rarr;"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Τα σχόλια έχουν κλείσει."
+
+#: content.php:22
+msgid "Read More &raquo;"
+msgstr "Διαβάστε περισσότερα &raquo;"
+
+#: content.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:29
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: footer.php:42
+msgid "&copy; 2016"
+msgstr "© 2016"
+
+#: footer.php:42
+msgid "All Rights Reserved"
+msgstr "Με την επιφύλαξη παντός δικαιώματος."
+
+#: front-page.php:36
+msgid "Read More"
+msgstr "Περισσότερα"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Πρωτογενές μενού"
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr "Μενού χαμηλό"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "Πλευρική στήλη Ιστολογίου"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "Εμφανίζεται στην πλαϊνή μπάρα του blog σελίδα"
+
+#: functions.php:74
+msgctxt "roboto_condensed:on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: functions.php:80
+msgctxt "oswald:on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: functions.php:86
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Μενού"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "Σχετικά με το θέμα"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "Σχετικά με το θέμα πληροφορίες"
+
+#: inc/about-themes.php:32
+msgid ""
+"Interior lite is an interior design WordPress theme which can be used as "
+"responsive multipurpose WordPress theme that is simple and adaptable and "
+"flexible, and is fully translation ready with po file available as well as "
+"compatibility with qTranslate X plugin. Can be used for business, corporate, "
+"cafe and restaurant, personal, portfolio, Ecommerce, agency, consulting, "
+"real estate, photography and other industries. It is also compatible with "
+"various other contact form, SEO and Ecommerce plugins like WooCommerce and "
+"NextGen gallery."
+msgstr ""
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "ζωντανή Επίδειξη"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Αγορά Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: inc/customizer.php:41
+msgid "Color Scheme"
+msgstr "Χρωματικό θέμα"
+
+#: inc/customizer.php:51
+msgid "Slider Settings"
+msgstr "Ρυθμιστικό ρυθμίσεων"
+
+#: inc/customizer.php:53
+msgid ""
+"Featured Image Size Should be ( 1400x692 ) [ This only work when static "
+"front page is selected. ]"
+msgstr ""
+"Προτεινόμενο μέγεθος της εικόνας θα πρέπει να είναι (1400x692) [Αυτό το "
+"μοναδικό έργο όταν έχει επιλεγεί η στατική πρώτη σελίδα. ]"
+
+#: inc/customizer.php:63
+msgid "Select page for slide one:"
+msgstr "Επιλέξτε σελίδα για διαφάνεια ένα:"
+
+#: inc/customizer.php:73
+msgid "Select page for slide two:"
+msgstr "Επιλέξτε σελίδα για διαφάνεια δύο:"
+
+#: inc/customizer.php:83
+msgid "Select page for slide three:"
+msgstr "Επιλεγμένη σελίδα για διαφάνεια τρεις:"
+
+#: inc/customizer.php:96
+msgid "Uncheck This Option To Display Slider"
+msgstr "Απενεργοποιήστε αυτή την επιλογή να εμφανίσετε Slider"
+
+#: inc/customizer.php:103
+msgid "Homepage Four Boxes Section"
+msgstr "Αρχική σελίδα τέσσερα πλαίσια Ενότητα"
+
+#: inc/customizer.php:104
+msgid ""
+"Select Pages from the dropdown for homepage four boxes section [ This only "
+"work when static front page is selected. ]"
+msgstr ""
+"Επιλέξτε Σελίδες από το αναπτυσσόμενο μενού για την αρχική σελίδα τέσσερις "
+"ενότητα κουτιά [αυτό μόνο το έργο όταν έχει επιλεγεί στατική πρώτη σελίδα. ]"
+
+#: inc/customizer.php:114
+msgid "Add title for section title"
+msgstr "Προσθέστε ένα τίτλο για το τμήμα του τίτλου"
+
+#: inc/customizer.php:163
+msgid "Uncheck This Option To Display This Section"
+msgstr "Απενεργοποιήστε αυτή την επιλογή για την εμφάνιση αυτού τμήματος"
+
+#: inc/customizer.php:170
+msgid "Social Settings"
+msgstr "Social ρυθμίσεις"
+
+#: inc/customizer.php:180
+msgid "Add title for footer follow us title"
+msgstr "Προσθέστε ένα τίτλο για το υποσέλιδο μας ακολουθήσουν τίτλο"
+
+#: inc/customizer.php:192
+msgid "Add facebook link here"
+msgstr "Προσθήκη σύνδεσης στο facebook, εδώ"
+
+#: inc/customizer.php:202
+msgid "Add twitter link here"
+msgstr "Προσθέσετε κελάδημα σύνδεσμο εδώ"
+
+#: inc/customizer.php:211
+msgid "Add google plus link here"
+msgstr "Προσθέστε το google plus link εδώ"
+
+#: inc/customizer.php:220
+msgid "Add linkedin link here"
+msgstr "Προσθέστε σύνδεσμο linkedin εδώ"
+
+#: inc/customizer.php:226
+msgid "Contact Details"
+msgstr "Στοιχεία επικοινωνίας"
+
+#: inc/customizer.php:227
+msgid "Add you contact details here"
+msgstr "Προσθήκη σας στοιχεία επικοινωνίας εδώ"
+
+#: inc/customizer.php:235
+msgid "Add contact number here."
+msgstr "Προσθέστε τηλέφωνο επικοινωνίας εδώ."
+
+#: inc/customizer.php:245
+msgid "Add you email here"
+msgstr "Προσθέστε το email σας εδώ"
+
+#: inc/customizer.php:300
+msgid "Upgrade to PRO Version"
+msgstr "Αναβάθμιση σε έκδοση Pro"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "Τροποποίηση"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιο σας αναμένει έγκριση από τον διαχειριστή."
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Δημοσιεύθηκε %1$s</span> <span class=\"byline"
+"\">από %2$s.</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Δεν βρεθηκε κατι"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Έτοιμοι για τη δημοσίευση του πρώτου σας άρθρου; <a href=“%1$s”>Ξεκινήστε "
+"εδώ</a> ."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Δεν βρέθηκαν αποτελέσματα. Δοκιμάστε διαφορετική αναζήτηση."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Φαίνεται ότι δεν μπορούμε να βρούμε αυτό που ψάχνετε. Ίσως η αναζήτηση "
+"μπορεί να βοηθήσει."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Αναζήτηση…"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Αρει"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Μεταδεδομένα"
+
+#. Theme Name of the plugin/theme
+msgid "Interior Lite"
+msgstr "Interior Lite"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.net/shop/free-interior-wordpress-theme/"
+msgstr "https://www.sktthemes.net/shop/free-interior-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"Interior lite is an interior design WordPress theme which can be used as "
+"responsive multipurpose WordPress theme that is simple and adaptable and "
+"flexible, and is fully translation ready with po file available. Can be used "
+"for construction, food and drink, recipes, bakery, business, corporate, cafe "
+"and restaurant, personal, portfolio, Ecommerce, agency, consulting, real "
+"estate, photography and other industries. It is also compatible with various "
+"other contact form, SEO and Ecommerce plugins like WooCommerce and NextGen "
+"gallery. Check demo at: http://sktthemesdemo.net/interior/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

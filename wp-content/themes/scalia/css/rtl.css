@@ -1,0 +1,38 @@
+/*
+Theme Name: scalia
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Reset
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Forms
+ * 5.0 - Navigations
+ * 6.0 - Accessibility
+ * 7.0 - Alignments
+ * 8.0 - Header
+ * 9.0 - Widgets
+ * 10.0 - Content
+ *   10.1 - Posts and pages
+ *   10.2 - Comments
+ * 11.0 - Media Queries
+ *    11.1 - Mobile Large
+ *    11.2 - Tablet Small
+ *    11.3 - Tablet Large
+ *    11.4 - Desktop Small
+ *    11.5 - Desktop Medium
+ *    11.6 - Desktop Large
+ *    11.7 - Desktop X-Large
+ */
+
+
+/**
+ * 1.0 Reset
+ */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}

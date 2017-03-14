@@ -1,0 +1,27 @@
+Version 1.0
+i)  Intial version Release.
+
+Version 1.1
+i)  Changed URLs of documentation and changed text-domain and prefix. 
+
+Version 1.2
+i)  Theme URL rectified.
+
+Version 1.3
+i)  code changes to front page as per reviewer.
+
+Version 1.4
+i)  code changes as per reviewer.
+
+Version 1.5
+i)  index.php and header.php changes as per reviewer.
+
+Version 1.5.1
+i)  Theme check recommendation resolved. 
+
+Version 1.5.2
+i)  Changed appearance in latest posts of the theme.
+
+Version 1.5.3
+i)  Removed default copyright and link.
+ii) Theme Check issues resolved. 

@@ -1,0 +1,58 @@
+/*
+Theme Name: SKT Bakery
+Theme URI:  http://www.sktthemes.net/shop/bakery-lite/
+Author: SKT Themes
+Author URI: http://www.sktthemes.net
+Description: SKT Bakery is a bakery WordPress theme with focus on cakes, food, pastries, cafe, restaurant, coffee, shop, dine, and drink. SKT Bakery is responsive and Google mobile friendly and is fast loading theme. It is WooCommerce compatible for shop and Ecommerce capability and looks modern with nice slider. Can change colors and background and text and slider so that you can just focus on making site beautiful. Demo: http://sktthemesdemo.net/bakery/ 
+
+Version: 1.5.3
+License: GNU General Public License
+License URI: license.txt
+Text Domain: skt_bakery
+Tags: brown,orange,pink,red,white,yellow,light,two-columns,right-sidebar,responsive-layout,custom-background, custom-colors,custom-header,custom-menu,featured-images,full-width-template,sticky-post,theme-options,threaded-comments
+
+SKT Bakery WordPress Theme has been created by SKT Themes(sktthemes.net), 2015.
+SKT Bakery WordPress Theme is released under the terms of GNU GPL
+*/
+body{ margin:0; padding:0;line-height:20px; font:12px arial; background-color: #f3f0e9;}
+*{ margin:0; padding:0;}
+img{ border:none; margin:0; padding:0; height:auto}
+.wp-caption, .wp-caption-text, .sticky, .gallery-caption, .aligncenter{ margin:0; padding:0;}
+p{ margin:0; padding:0;}
+.postmeta a:hover, a, #footer .widget-column a:hover, #copyright a:hover{ text-decoration:none; color:#0ec7ab;}
+ol,ul{ margin:0; padding:0;}
+ul li ul, ul li ul li ul, ol li ol, ol li ol li ol{ margin-left:10px;}
+h1,h2,h3,h4,h5,h6{ margin:0; padding:0;}
+.clear{ clear:both;}
+.alignnone{ width:100% !important;}
+img.alignleft, .alignleft{ float:left; margin:0 15px 0 0; padding:5px; border:1px solid #cccccc;}
+img.alignright, .alignright{ float:right; margin:0 0 0 15px; padding:5px; border:1px solid #cccccc;}
+
+
+/* ------ Woocommerce ------- */
+select.orderby{ margin:0; padding:0; height:35px; font:14x 'PT Sans', Helvetica, sans-serif; color:#4e4e4e; border:1px solid #cccccc;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:#7ab040 !important;}
+
+.team_links{text-align:center; padding:10px 0; border-top:1px #fff solid;}
+.member_info{background:#f6f6f6; text-align:center; margin-top:10px;}
+.member_dtl{padding:15px;}
+.member_dtl p{ margin:5px 0 !important;}
+
+.mobile_nav a{background:url(images/mobile_nav_right.png) no-repeat right center #f6f6f6; border:1px #ccc solid; margin:4px 0 0; padding:8px 20px; display:none; font:400 20px 'Roboto Condensed',san-serif; position:relative;}
+
+.pagination{display:table; clear:both;}
+.pagination ul{list-style:none; margin:20px 0;}
+.pagination ul li{display:inline; float:left; margin-right:5px;}
+.pagination ul li span, .pagination ul li a{background:#313131; color:#fff; padding:5px 10px; display:inline-block;}
+.pagination ul li .current, .pagination ul li a:hover{background:#0ec7ab;}
+
+#comment-nav-above .nav-previous, #comment-nav-below .nav-previous{ float:none !important; margin:10px 0;}
+ol.comment-list li{ list-style:none; margin-bottom:5px;}
+.spacer40{height:40px; clear:both;}
+.spacer80{height:80px; clear:both;}
+
+/*body.blog .feature-box-main{display:none !important;}
+body.blog .spacer40{height:0px !important;}
+
+body.home .blog .feature-box-main{display:block !important;}
+body.home .spacer40{height:40px !important;}*/

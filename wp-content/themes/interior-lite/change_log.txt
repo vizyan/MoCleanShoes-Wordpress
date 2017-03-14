@@ -1,0 +1,47 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Changes as per reviewer comments.
+
+Version 1.2
+i) Resolved Slider & Home Page four boxes does not shows up when tried adding them issues. 
+
+Version 1.3
+i)   Removed home Page four boxes showing on default.
+ii)  Done text string translation.
+iii) Removed statements of PRO Version and Done all changes as per reviewer pointed.
+
+Version 1.4
+i)   Removed slider showing on default.
+
+Version 1.5
+i) Changes as per reviewer comments.
+
+Version 1.6
+i) Changes as per reviewer comments.
+
+Version 1.7
+i) Resolved issues as per reviewer comments.
+
+Version 1.8
+i) Removed tags as suggested by admin.
+
+Version 1.9
+i) Image removed which wasn't GPL compliant.
+ii) Resolved translation problem.
+iii) Removed excerpt function and using default.
+
+Version 2.1
+i) Resolved language problems as pointed by admin. 
+
+Version 2.2
+i)  Resolved sidebar line height issue.
+ii) Resolved top header banner stretching issue.
+
+Version 2.3
+i)  Resolved search box styling.
+ii) Resolved footer link.
+
+Version 2.4
+i)  Resolved sidebar widget title with anchor color issues.

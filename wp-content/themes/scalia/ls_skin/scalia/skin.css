@@ -1,0 +1,87 @@
+/* LayerSlider Scalia */
+
+
+
+.ls-scalia .ls-playvideo {
+	width: 50px;
+	height: 50px;
+	margin-left: -25px;
+	margin-top: -25px;
+}
+
+.ls-scalia .ls-nav-sides,
+.ls-scalia .ls-bottom-nav-wrapper,
+.ls-scalia .ls-bottom-slidebuttons a,
+.ls-scalia .ls-nav-start,
+.ls-scalia .ls-nav-stop {
+	display: none;
+	visibility: hidden;
+}
+
+@media (max-width: 767px) {
+	.ls-scalia a.ls-nav-prev,
+	.ls-scalia a.ls-nav-next {
+		display: none;
+		visibility: hidden;
+	}
+}
+
+
+.ls-scalia .ls-playvideo,
+.ls-scalia .ls-loading-container,
+.ls-scalia .ls-fullscreen {
+	background-image: url(skin.png);
+}
+
+.ls-scalia .ls-playvideo {
+	background-position: -300px -150px;
+}
+
+.ls-scalia .ls-playvideo:hover,
+.ls-scalia .ls-vpcontainer:hover .ls-playvideo {
+	background-position: -375px -150px;
+}
+
+.ls-scalia .ls-thumbnail {
+	top: 0px;
+}
+
+.ls-scalia .ls-thumbnail-inner {
+	padding: 5px;
+	margin-left: -5px;
+}
+
+.ls-scalia .ls-thumbnail-slide a {
+	margin-right: 5px;
+}
+
+.ls-scalia .ls-nothumb {
+	background: #eee;
+}
+
+.ls-scalia .ls-loading-container {
+	width: 40px;
+	height: 40px;
+	margin-left: -20px;
+	margin-top: -20px;
+	background-position: -450px -150px;
+}
+
+.ls-scalia .ls-loading-indicator {
+	width: 22px;
+	height: 22px;
+	margin-top: 9px;
+	background-image: url(loading.gif);
+}
+
+.ls-scalia .ls-fullscreen {
+	width: 30px;
+	height: 30px;
+	right: 10px;
+	top: 10px;
+	background-position: -525px -150px;
+}
+
+.ls-scalia .ls-fullscreen:hover {
+	background-position: -525px -190px;
+}

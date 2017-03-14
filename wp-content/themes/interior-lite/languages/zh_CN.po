@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interior Lite\n"
+"POT-Creation-Date: 2016-08-16 12:03+0530\n"
+"PO-Revision-Date: 2016-08-16 12:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 - 未找到页面"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Don't worry... it happens to the "
+"best of us."
+msgstr "看起来你好像弄错了...<br />别担心，谁没出过错呢。"
+
+#: archive.php:32 category.php:32 front-page.php:65 index.php:34 search.php:25
+msgid "Back"
+msgstr "返回"
+
+#: archive.php:33 category.php:33 front-page.php:66 index.php:35 search.php:26
+msgid "Next"
+msgstr "下一页"
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: comments.php:27
+msgid "Comments"
+msgstr "旧的评论"
+
+#: comments.php:30 comments.php:50
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:31 comments.php:51
+msgid "&larr; Older Comments"
+msgstr "旧的评论"
+
+#: comments.php:32 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "新的评论"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "评论被关闭"
+
+#: content.php:22
+msgid "Read More &raquo;"
+msgstr "阅读更多 &raquo;"
+
+#: content.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读<span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:29
+msgid "Pages:"
+msgstr "页数:"
+
+#: footer.php:42
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:42
+msgid "All Rights Reserved"
+msgstr "版权所有"
+
+#: front-page.php:36
+msgid "Read More"
+msgstr "阅读更多"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr "底部菜单"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧边栏"
+
+#: functions.php:74
+msgctxt "roboto_condensed:on or off"
+msgid "on"
+msgstr "开"
+
+#: functions.php:80
+msgctxt "oswald:on or off"
+msgid "on"
+msgstr "开"
+
+#: functions.php:86
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "开"
+
+#: header.php:50
+msgid "Menu"
+msgstr "菜单"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "关于"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "关于主题信息"
+
+#: inc/about-themes.php:32
+msgid ""
+"Interior lite is an interior design WordPress theme which can be used as "
+"responsive multipurpose WordPress theme that is simple and adaptable and "
+"flexible, and is fully translation ready with po file available as well as "
+"compatibility with qTranslate X plugin. Can be used for business, corporate, "
+"cafe and restaurant, personal, portfolio, Ecommerce, agency, consulting, "
+"real estate, photography and other industries. It is also compatible with "
+"various other contact form, SEO and Ecommerce plugins like WooCommerce and "
+"NextGen gallery."
+msgstr ""
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "在线演示"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "买临"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/customizer.php:41
+msgid "Color Scheme"
+msgstr "启用自定义配色方案，选择你自己的配色方案"
+
+#: inc/customizer.php:51
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: inc/customizer.php:53
+msgid ""
+"Featured Image Size Should be ( 1400x692 ) [ This only work when static "
+"front page is selected. ]"
+msgstr "当选择静态的头版特色图片大小应为（1400x692）这只工作。 ]"
+
+#: inc/customizer.php:63
+msgid "Select page for slide one:"
+msgstr "选择第一张幻灯片的页面 ︰"
+
+#: inc/customizer.php:73
+msgid "Select page for slide two:"
+msgstr "选择第二张幻灯片的页面 ︰"
+
+#: inc/customizer.php:83
+msgid "Select page for slide three:"
+msgstr "第三张幻灯片选择页面 ︰"
+
+#: inc/customizer.php:96
+msgid "Uncheck This Option To Display Slider"
+msgstr "取消选中此选项以显示滑块"
+
+#: inc/customizer.php:103
+msgid "Homepage Four Boxes Section"
+msgstr "首页四盒科"
+
+#: inc/customizer.php:104
+msgid ""
+"Select Pages from the dropdown for homepage four boxes section [ This only "
+"work when static front page is selected. ]"
+msgstr "从下拉菜单中为主页四盒一节[当选择静态的头版这只工作选择页面。 ]"
+
+#: inc/customizer.php:114
+msgid "Add title for section title"
+msgstr "添加标题部分标题"
+
+#: inc/customizer.php:163
+msgid "Uncheck This Option To Display This Section"
+msgstr "取消选中此选项可显示此节"
+
+#: inc/customizer.php:170
+msgid "Social Settings"
+msgstr "社交设置"
+
+#: inc/customizer.php:180
+msgid "Add title for footer follow us title"
+msgstr "添加标题页脚按照我们称号"
+
+#: inc/customizer.php:192
+msgid "Add facebook link here"
+msgstr "在这里增加facebook链接"
+
+#: inc/customizer.php:202
+msgid "Add twitter link here"
+msgstr "在这里增加twitter链接"
+
+#: inc/customizer.php:211
+msgid "Add google plus link here"
+msgstr "在这里添加google plus链接"
+
+#: inc/customizer.php:220
+msgid "Add linkedin link here"
+msgstr "在这里添加linkedin链接"
+
+#: inc/customizer.php:226
+msgid "Contact Details"
+msgstr "详细联系方式"
+
+#: inc/customizer.php:227
+msgid "Add you contact details here"
+msgstr "添加联系方式"
+
+#: inc/customizer.php:235
+msgid "Add contact number here."
+msgstr "添加联系号码"
+
+#: inc/customizer.php:245
+msgid "Add you email here"
+msgstr "添加邮箱"
+
+#: inc/customizer.php:300
+msgid "Upgrade to PRO Version"
+msgstr "升级成专业版"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "广播:"
+
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核."
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">发布时间 %1$s</span><span class=\"byline\"> 这 "
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布你的第一篇文章了吗？<a href=\"%1$s\">走你</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有匹配到搜索的条件，可尝试换一个关键词再搜索试试。"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "下面的文章也挺精彩的，又或许你可以通过搜索试试。"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "查找"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "查找"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "分类"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "管理"
+
+#. Theme Name of the plugin/theme
+msgid "Interior Lite"
+msgstr "Interior Lite"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.net/shop/free-interior-wordpress-theme/"
+msgstr "https://www.sktthemes.net/shop/free-interior-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"Interior lite is an interior design WordPress theme which can be used as "
+"responsive multipurpose WordPress theme that is simple and adaptable and "
+"flexible, and is fully translation ready with po file available. Can be used "
+"for construction, food and drink, recipes, bakery, business, corporate, cafe "
+"and restaurant, personal, portfolio, Ecommerce, agency, consulting, real "
+"estate, photography and other industries. It is also compatible with various "
+"other contact form, SEO and Ecommerce plugins like WooCommerce and NextGen "
+"gallery. Check demo at: http://sktthemesdemo.net/interior/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

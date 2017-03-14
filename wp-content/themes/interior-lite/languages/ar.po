@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interior Lite\n"
+"POT-Creation-Date: 2016-08-16 12:04+0530\n"
+"PO-Revision-Date: 2016-08-16 12:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "خطأ الصفحه غير موجوده"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Don't worry... it happens to the "
+"best of us."
+msgstr "يبدو وكأنه كنت قد اتخذت منعطفا خاطئا... لا تقلق.. يحدث أن أفضل منا."
+
+#: archive.php:32 category.php:32 front-page.php:65 index.php:34 search.php:25
+msgid "Back"
+msgstr "رجوع"
+
+#: archive.php:33 category.php:33 front-page.php:66 index.php:35 search.php:26
+msgid "Next"
+msgstr "التالي"
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr "تصفّح المواضيع"
+
+#: comments.php:27
+msgid "Comments"
+msgstr "تعليقات"
+
+#: comments.php:30 comments.php:50
+msgid "Comment navigation"
+msgstr "الإنتقال بين التعليقات"
+
+#: comments.php:31 comments.php:51
+msgid "&larr; Older Comments"
+msgstr "‏أقدم التعليقات"
+
+#: comments.php:32 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "أحدث التعليقات"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة"
+
+#: content.php:22
+msgid "Read More &raquo;"
+msgstr "اقرأ المزيد &raquo;"
+
+#: content.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "أكمل قراءة <span class=“meta-nav”>&rarr;</span>"
+
+#: content.php:29
+msgid "Pages:"
+msgstr "الصفحات :"
+
+#: footer.php:42
+msgid "&copy; 2016"
+msgstr "© 2016"
+
+#: footer.php:42
+msgid "All Rights Reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: front-page.php:36
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "القائمة الأولية"
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr "القائمة السفلى"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "الشريط الجانبي للمدونة"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "يظهر في الشريط الجانبي في صفحة المدونة"
+
+#: functions.php:74
+msgctxt "roboto_condensed:on or off"
+msgid "on"
+msgstr "‏off"
+
+#: functions.php:80
+msgctxt "oswald:on or off"
+msgid "on"
+msgstr "‏off"
+
+#: functions.php:86
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "‏off"
+
+#: header.php:50
+msgid "Menu"
+msgstr "القائمة"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "حول موضوع"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "حول معلومات الموضوع"
+
+#: inc/about-themes.php:32
+msgid ""
+"Interior lite is an interior design WordPress theme which can be used as "
+"responsive multipurpose WordPress theme that is simple and adaptable and "
+"flexible, and is fully translation ready with po file available as well as "
+"compatibility with qTranslate X plugin. Can be used for business, corporate, "
+"cafe and restaurant, personal, portfolio, Ecommerce, agency, consulting, "
+"real estate, photography and other industries. It is also compatible with "
+"various other contact form, SEO and Ecommerce plugins like WooCommerce and "
+"NextGen gallery."
+msgstr ""
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "عرض التجريبي"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "شراء برو"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: inc/customizer.php:41
+msgid "Color Scheme"
+msgstr "اللون"
+
+#: inc/customizer.php:51
+msgid "Slider Settings"
+msgstr "اعدادات السلايدر"
+
+#: inc/customizer.php:53
+msgid ""
+"Featured Image Size Should be ( 1400x692 ) [ This only work when static "
+"front page is selected. ]"
+msgstr ""
+"شارك حجم الصورة يجب أن يكون (1400x692) [هذا العمل فقط عندما الصفحة الأولى "
+"ثابتة المحدد. ]"
+
+#: inc/customizer.php:63
+msgid "Select page for slide one:"
+msgstr "حدد صفحة لشريحة واحدة:"
+
+#: inc/customizer.php:73
+msgid "Select page for slide two:"
+msgstr "حدد صفحة للشريحة الثانية:"
+
+#: inc/customizer.php:83
+msgid "Select page for slide three:"
+msgstr "حدد الصفحة للشرائح الثلاث:"
+
+#: inc/customizer.php:96
+msgid "Uncheck This Option To Display Slider"
+msgstr "قم بإلغاء تحديد هذا الخيار لعرض المتزلج"
+
+#: inc/customizer.php:103
+msgid "Homepage Four Boxes Section"
+msgstr "الصفحة الرئيسية القسم الرابع صناديق"
+
+#: inc/customizer.php:104
+msgid ""
+"Select Pages from the dropdown for homepage four boxes section [ This only "
+"work when static front page is selected. ]"
+msgstr ""
+"اختر الصفحات من القائمة المنسدلة لزيارة أربعة قسم صناديق [هذا العمل فقط "
+"عندما يتم تحديد صفحتها ثابتة. ]"
+
+#: inc/customizer.php:114
+msgid "Add title for section title"
+msgstr "إضافة عنوان لعنوان الباب"
+
+#: inc/customizer.php:163
+msgid "Uncheck This Option To Display This Section"
+msgstr "قم بإلغاء تحديد هذا الخيار لعرض هذا المقطع"
+
+#: inc/customizer.php:170
+msgid "Social Settings"
+msgstr "الاعدادات الاجتماعية"
+
+#: inc/customizer.php:180
+msgid "Add title for footer follow us title"
+msgstr "إضافة عنوان للتذييل تابعنا عنوان"
+
+#: inc/customizer.php:192
+msgid "Add facebook link here"
+msgstr "إضافة رابط ألفيس بوك هنا"
+
+#: inc/customizer.php:202
+msgid "Add twitter link here"
+msgstr "إضافة رابط تويتر هنا"
+
+#: inc/customizer.php:211
+msgid "Add google plus link here"
+msgstr "إضافة جوجل بالإضافة إلى ارتباط هنا"
+
+#: inc/customizer.php:220
+msgid "Add linkedin link here"
+msgstr "أضف وصلة linkedin هنا"
+
+#: inc/customizer.php:226
+msgid "Contact Details"
+msgstr "تفاصيل الاتصال"
+
+#: inc/customizer.php:227
+msgid "Add you contact details here"
+msgstr "إضافة الاتصال بالتفاصيل هنا"
+
+#: inc/customizer.php:235
+msgid "Add contact number here."
+msgstr "إضافة رقم الاتصال هنا."
+
+#: inc/customizer.php:245
+msgid "Add you email here"
+msgstr "إضافة لك البريد الإلكتروني هنا"
+
+#: inc/customizer.php:300
+msgid "Upgrade to PRO Version"
+msgstr "الترقية إلى الإصدار برو"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "التعقيبات"
+
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "تحرير"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "شكرا لك … تعليقك بإنتظار المراجعة وسيتم نشره قريبا."
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">نشرت %1$s</span> <span class=\"byline\">بواسطة "
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر أول مقالة لك؟ <a href=\"%s\">أبدأ من هنا </a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"معذرة، لكن لا شئ له صلة بمصطلحات بحثك. الرجاء المحاولة مرة أخرى ببعض كلمات "
+"مفتاحية مختلفة،"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"يبدو أننا لا يمكننا &rsquo;t العثور على ماذا أنت&rsquo;re تبحث عنه. ربما "
+"البحث يستطيع المساعدة."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث لـ : %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "بحث بواسطة"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "الاقسام"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "علامة الوصف"
+
+#. Theme Name of the plugin/theme
+msgid "Interior Lite"
+msgstr "Interior Lite"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.net/shop/free-interior-wordpress-theme/"
+msgstr "https://www.sktthemes.net/shop/free-interior-wordpress-theme"
+
+#. Description of the plugin/theme
+msgid ""
+"Interior lite is an interior design WordPress theme which can be used as "
+"responsive multipurpose WordPress theme that is simple and adaptable and "
+"flexible, and is fully translation ready with po file available. Can be used "
+"for construction, food and drink, recipes, bakery, business, corporate, cafe "
+"and restaurant, personal, portfolio, Ecommerce, agency, consulting, real "
+"estate, photography and other industries. It is also compatible with various "
+"other contact form, SEO and Ecommerce plugins like WooCommerce and NextGen "
+"gallery. Check demo at: http://sktthemesdemo.net/interior/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

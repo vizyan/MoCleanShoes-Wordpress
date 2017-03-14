@@ -1,0 +1,222 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Interior Lite\n"
+"POT-Creation-Date: 2016-08-16 12:03+0530\n"
+"PO-Revision-Date: 2016-05-31 15:29+0530\n"
+"Last-Translator: \n"
+"Language-Team: SKT Themes <support@sktthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;esc_attr;esc_attr_e;_n;_x;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....Don't worry... it happens to the best of us."
+msgstr ""
+
+#: archive.php:32 category.php:32 front-page.php:65 index.php:34 search.php:25
+msgid "Back"
+msgstr ""
+
+#: archive.php:33 category.php:33 front-page.php:66 index.php:35 search.php:26
+msgid "Next"
+msgstr ""
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31 comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:17 content.php:14
+msgid ", "
+msgstr ""
+
+#: content.php:22
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:42
+msgid "&copy; 2016"
+msgstr ""
+
+#: footer.php:42
+msgid "All Rights Reserved"
+msgstr ""
+
+#: front-page.php:36
+msgid "Read More"
+msgstr ""
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:74 functions.php:80 functions.php:86
+msgid "on"
+msgstr ""
+
+#: header.php:50
+msgid "Menu"
+msgstr ""
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:32
+msgid "Interior lite is an interior design WordPress theme which can be used as responsive multipurpose WordPress theme that is simple and adaptable and flexible, and is fully translation ready with po file available as well as compatibility with qTranslate X plugin. Can be used for business, corporate, cafe and restaurant, personal, portfolio, Ecommerce, agency, consulting, real estate, photography and other industries. It is also compatible with various other contact form, SEO and Ecommerce plugins like WooCommerce and NextGen gallery."
+msgstr ""
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Featured Image Size Should be ( 1400x692 ) [ This only work when static front page is selected. ]"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Uncheck This Option To Display Slider"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Homepage Four Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Select Pages from the dropdown for homepage four boxes section [ This only work when static front page is selected. ]"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Add title for section title"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Uncheck This Option To Display This Section"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Add title for footer follow us title"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Add you email here"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Upgrade to PRO Version"
+msgstr ""

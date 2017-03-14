@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'scalia-icons';
+	src:url('../fonts/scalia-icons.eot?-yiqymz');
+	src:url('../fonts/scalia-icons.eot?#iefix-yiqymz') format('embedded-opentype'),
+		url('../fonts/scalia-icons.woff?-yiqymz') format('woff'),
+		url('../fonts/scalia-icons.ttf?-yiqymz') format('truetype'),
+		url('../fonts/scalia-icons.svg?-yiqymz#scalia-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'scalia-socials';
+	src:url('../fonts/scalia-socials.eot');
+	src:url('../fonts/scalia-socials.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/scalia-socials.ttf') format('truetype'),
+		url('../fonts/scalia-socials.woff') format('woff'),
+		url('../fonts/scalia-socials.svg#scalia-socials') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'scalia-user-icons';
+	src:url('../fonts/scalia-user-icons.eot');
+	src:url('../fonts/scalia-user-icons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/scalia-user-icons.ttf') format('truetype'),
+		url('../fonts/scalia-user-icons.woff') format('woff'),
+		url('../fonts/scalia-user-icons.svg#scalia-user-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,17 @@
+<wpml-config>
+    <custom-fields>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">scalia_pf_item</custom-type>
+        <custom-type translate="1">scalia_qf_item</custom-type>
+        <custom-type translate="1">scalia_news</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">scalia_portfolios</taxonomy>
+    </taxonomies>
+    <admin-texts>
+    </admin-texts>
+    <language-switcher-settings>
+</wpml-config>
+
+
